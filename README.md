@@ -4,7 +4,7 @@
 
 ![alt text](https://uploaddeimagens.com.br/images/001/972/884/original/1.png "tela")
 
-Sistema para **abertura de chamados** para uma empresa que presta serviços, como por exemplo solicitações de reparo em computadores, onde é aberto um chamado, e este chamado é transferido para um técnico responsável que irá avaliar e atender a solicitação,com a possibilidade de edição, inserção de dados e novas situações do proceddo do chamado, feedback, histórico para relatório do chamado, estado da situação atual do chamado entre outras possibilidades em modo gerencial e administrativo do sistema.
+Sistema para **abertura de chamados** de uma empresa que presta serviços, como por exemplo solicitações de reparo em computadores, onde é aberto um chamado, e este chamado é transferido para um técnico responsável que irá avaliar e atender a solicitação,com a possibilidade de edição, inserção de dados e novas situações do proceddo do chamado, feedback, histórico para relatório do chamado, estado da situação atual do chamado entre outras possibilidades em modo gerencial e administrativo do sistema.
 
 &nbsp;
 O sistema possui **5 tipos de usuários**, são eles:
