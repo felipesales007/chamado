@@ -25,6 +25,8 @@ O sistema possui **5 tipos de usuários**, são eles:
 5 - **administrador** (controla todo o sistema/setores de serviços).
 
 &nbsp;
+
+&nbsp;
 O sistema também possui um app para acesso na [Google Play](https://play.google.com/store/apps/details?id=com.felipesales007.chamado&hl=pt-BR).
 
 &nbsp;
