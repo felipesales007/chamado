@@ -28,6 +28,7 @@ O sistema possui **5 tipos de usuários**, são eles:
 O sistema também possui um app para acesso na [Google Play](https://play.google.com/store/apps/details?id=com.felipesales007.chamado&hl=pt-BR).
 
 &nbsp;
+&nbsp;
 Para **mais informações** sobre o sistema, dúvidas, implementação do sistema na sua empresa entre em contato:
 
 &nbsp;
