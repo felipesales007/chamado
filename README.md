@@ -27,11 +27,18 @@ O sistema possui **5 tipos de usuários**, são eles:
 &nbsp;
 O sistema também possui um app para acesso na [Google Play](https://play.google.com/store/apps/details?id=com.felipesales007.chamado&hl=pt-BR).
 
+&nbsp;
+Para **mais informações** sobre o sistema, dúvidas, implementação do sistema na sua empresa entre em contato:
+
+&nbsp;
+felipesales007@hotmail.com
+
+&nbsp;
+(71) 99140-2371 (WhatsApp)
+
 ## Versão disponível
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="150" height="85" />](http://www.php.net/)
-
-<img src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-4.png" width="100" height="100" />
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="150" height="85" />](http://www.php.net/) <img src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-4.png" width="100" height="100" />
 
 | ABERTURA DE CHAMADO | NOVO CHAMADO |
 | --- | --- |
