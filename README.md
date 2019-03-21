@@ -42,7 +42,9 @@ felipesales007@hotmail.com
 
 ## Versão disponível
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="150" height="85" />](http://www.php.net/) <img src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-4.png" width="100" height="100" />
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="100" height="100" />](http://www.php.net/) <img src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-4.png" width="100" height="100" />
+
+## Mais telas
 
 | ABERTURA DE CHAMADO | NOVO CHAMADO |
 | --- | --- |
@@ -85,6 +87,7 @@ felipesales007@hotmail.com
 | <img src="https://uploaddeimagens.com.br/images/001/972/921/original/20.png" width="420" height="600" /> | <img src="https://uploaddeimagens.com.br/images/001/972/922/original/21.png" width="420" height="600" />
 
 ## Sistema
+
 Visite a página do sistema [Chamado](https://www.felipesales.com.br/chamado) ou realize o download do app na [Google Play](https://play.google.com/store/apps/details?id=com.felipesales007.chamado&hl=pt-BR).
 
 &nbsp;
